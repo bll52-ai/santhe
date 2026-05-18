@@ -15,6 +15,15 @@
 
 ---
 
+## 📸 Visual Preview
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/Screenshot_20260519-012122_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012126_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012141_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012144_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012147_Santhe-Connect.png" width="200"> |
+| <img src="screenshots/Screenshot_20260519-012150_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012157_Santhe-Connect.png" width="200"> | <img src="screenshots/Screenshot_20260519-012205_Santhe-Connect.png" width="200"> | | |
+
+---
+
 ## 🛠️ Technical Stack
 
 | Category | Technology | Usage |
